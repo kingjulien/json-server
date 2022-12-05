@@ -8,5 +8,8 @@
   "users": [{
     "id": "1"
     "name": "E"
-  }]
+  }],
+  "profile": {
+    "name": "typicode"
+  }
 }
